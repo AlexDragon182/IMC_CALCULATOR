@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IMC_APP</string>
+
+    <string name="MALE">MEN</string>
+    <string name="FEMALE">MWOMEN</string>
+    <string name="HEIGHT">HEIGH</string>
+    <string name="WEIGHT">WEIGHT</string>
+    <string name="AGE">AGE</string>
+    <string name="CALCULATE">CALCULATE</string>
+
+    <string name="error">PORFAVOR INTENTA DE NUEVO</string>
+    <string name="title_peso_mosca">Bajo IMC</string>
+    <string name="title_peso_mosca_description">Bajo IMC</string>
+
+    <string name="title_peso_pluma">MEDIANO IMC</string>
+    <string name="title_peso_pluima_description">MEDIANO IMC</string>
+
+    <string name="title_peso_porky">OBESIDAD IMC</string>
+    <string name="title_peso_porky_description">OBESIDAD IMC</string>
+
+    <string name="title_peso_galactus">GALACTUS IMC</string>
+    <string name="title_peso_porky_galactus">GALACTUS IMC</string>
+
+</resources>
